@@ -18,9 +18,9 @@
                     </svg>
                 </button>
                 <a href="" class="flex ml-2 md:mr-24">
-                    <img src="{{ asset('assets/images/logo.png') }}" class="h-8 mr-3" alt="Mustakshif Logo" />
+                    <img src="{{ asset('assets/images/logo.svg') }}" class="h-8 mr-3" alt="Email Builder Logo" />
                     <span
-                        class="self-center text-md font-semibold sm:text-md whitespace-nowrap dark:text-white uppercase">Mustakshif</span>
+                        class="self-center text-md font-semibold sm:text-md whitespace-nowrap dark:text-white uppercase">Email Builder</span>
                 </a>
                 <form action="#" method="GET" class="hidden lg:block lg:pl-3.5">
                     <label for="topbar-search" class="sr-only">Search</label>

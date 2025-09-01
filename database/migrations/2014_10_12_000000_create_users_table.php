@@ -20,7 +20,7 @@ return new class extends Migration
             $table->string('email')->nullable();
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password')->nullable();
-            $table->string('avatar')->default('https://admin.mustakshif.com/uploads/users/default.png');
+            $table->string('avatar')->default('https://admin.Email Builder.com/uploads/users/default.png');
             $table->enum('auth_provider', ['google', 'facebook', 'apple', 'site'])->default('site');
             $table->enum('status', ['active', 'inactive', 'pending', 'disabled', 'waiting', 'closed', 'on_hold'])->default('pending');
             $table->rememberToken(); // varchar(100), nullable

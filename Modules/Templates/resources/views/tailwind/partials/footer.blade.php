@@ -51,7 +51,7 @@
     </div>
 </footer>
 <p class="my-10 text-sm text-center text-gray-500">
-    &copy; {{ date('Y') }}- <a href="https://mustakshif.com" class="hover:underline" target="_blank">mustakshif.com</a>.
+    &copy; {{ date('Y') }}- <a href="https://Email Builder.com" class="hover:underline" target="_blank">Email Builder.com</a>.
     All
     rights reserved.
 </p>

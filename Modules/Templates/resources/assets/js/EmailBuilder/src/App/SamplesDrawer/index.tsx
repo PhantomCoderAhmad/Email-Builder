@@ -7,7 +7,7 @@ import SidebarButton from './SidebarButton';
 import { resetDocument } from '../../documents/editor/EditorContext';
 import SidebarLoadTemplateButton from './SidebarLoadTemplateButton';
 
-const logo = 'https://www.mustakshif.com/index/assets/images/logo.png';
+const logo = 'https://www.Email Builder.com/index/assets/images/logo.svg';
 
 export const SAMPLES_DRAWER_WIDTH = 240;
 
@@ -71,7 +71,7 @@ export default function SamplesDrawer({ templates }: Props) {
       <Stack spacing={3} py={1} px={2} width={SAMPLES_DRAWER_WIDTH} justifyContent="space-between" height="100%">
         <Stack spacing={2} sx={{ '& .MuiButtonBase-root': { width: '100%', justifyContent: 'flex-start' } }}>
           <Typography variant="h6" component="h1" sx={{ p: 0.75 }}>
-            Mustakshif Email Builder
+            Email Builder Email Builder
           </Typography>
 
           <Stack alignItems="flex-start">
@@ -95,12 +95,12 @@ export default function SamplesDrawer({ templates }: Props) {
         </Stack>
 
         <Stack spacing={2} px={0.75} py={3}>
-          <Link href="https://www.mustakshif.com" target="_blank" sx={{ lineHeight: 1 }}>
+          <Link href="https://www.Email Builder.com" target="_blank" sx={{ lineHeight: 1 }}>
             <Box component="img" src={logo} width={64} />
           </Link>
           <Box>
             <Typography variant="overline" gutterBottom>
-              Mustakshif Email Builder
+              Email Builder Email Builder
             </Typography>
           </Box>
         </Stack>

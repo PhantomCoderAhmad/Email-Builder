@@ -183,7 +183,7 @@
                                 class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Subject</label>
                             <input type="text" id="subject" wire:model="subject"
                                 class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
-                                placeholder="Welcome to Mustakshif" required />
+                                placeholder="Welcome to Email Builder" required />
                         </div>
                         {{-- From Field --}}
                         <div>
@@ -191,7 +191,7 @@
                                 class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">From</label>
                             <input type="text" id="from" wire:model="from"
                                 class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
-                                placeholder="Mustakshif" required />
+                                placeholder="Email Builder" required />
                         </div>
                         <div>
                             <label for="type" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Type</label>

@@ -37,8 +37,8 @@ const HEADER_FOOTER: TEditorConfiguration =
         },
         "props": {
           "url": "http://127.0.0.1:8000/media_library/images/4509d21ec25d1bfa0171e226c15cf513.png",
-          "alt": "Mustakshif",
-          "linkHref": "https://www.mustakshif.com",
+          "alt": "Email Builder",
+          "linkHref": "https://www.Email Builder.com",
           "contentAlignment": "middle"
         }
       }
@@ -59,7 +59,7 @@ const HEADER_FOOTER: TEditorConfiguration =
           }
         },
         "props": {
-          "text": "Welcome to Mustakshif"
+          "text": "Welcome to Email Builder"
         }
       }
     },
@@ -76,7 +76,7 @@ const HEADER_FOOTER: TEditorConfiguration =
           "textAlign": "center"
         },
         "props": {
-          "url": "http://mustakshif-backend.local/assets/images/email/welcome/halal-alternative.png",
+          "url": "http://Email Builder-backend.local/assets/images/email/welcome/halal-alternative.png",
           "alt": "Sample product",
           "linkHref": null,
           "contentAlignment": "middle"
@@ -191,7 +191,7 @@ const HEADER_FOOTER: TEditorConfiguration =
         "props": {
           "url": "http://127.0.0.1:8000/media_library/images/3d97a6828f393c409b97a11aac0b4893.png",
           "alt": "Download and get more with app.",
-          "linkHref": "https://www.mustakshif.com",
+          "linkHref": "https://www.Email Builder.com",
           "contentAlignment": "middle"
         }
       }
@@ -281,7 +281,7 @@ const HEADER_FOOTER: TEditorConfiguration =
           }
         },
         "props": {
-          "contents": "<div style=\"padding: 30px 20px; display: flex; justify-content: center; align-items: center; gap: 10px;\">\n                           \n                               \n                                <a href=\"https://www.tiktok.com/@mustakshif_halal_scanner\" style=\"margin:0px 4px;padding:7px;display:block;border:1px solid #000000;border-radius:4px;\">\n                                    <img src=\"http://127.0.0.1:8000/media_library/images/39bbdbe312eb071abc2db3a3c40e6735.png\" style=\"margin:0px;padding:0px;display:block;width:20px;height:20px;\">\n                                </a>\n                                <a href=\"https://twitter.com/Mustakshif_\" style=\"margin:0px 4px;padding:7px;display:block;border:1px solid #000000;border-radius:4px;\">\n                                    <img src=\"http://127.0.0.1:8000/media_library/images/d90133f0096a919f64676f357bea6070.png\" style=\"margin:0px;padding:0px;display:block;width:20px;height:20px;\">\n                                </a>\n                            \n                                <a href=\"https://www.instagram.com/mustakshif_halal_explorer/\" style=\"margin:0px 4px;padding:7px;display:block;border:1px solid #000000;border-radius:4px;\">\n                                    <img src=\"http://127.0.0.1:8000/media_library/images/2ff0d19cfce57b9debbff5664f318b8d.png\" style=\"margin:0px;padding:0px;display:block;width:20px;height:20px;\">\n                                </a>\n                                <a href=\"https://www.youtube.com/@Mustakshif-halal-explorer\" style=\"margin:0px 4px;padding:7px;display:block;border:1px solid #000000;border-radius:4px;\">\n                                    <img src=\"http://127.0.0.1:8000/media_library/images/e7a6eb5fd14124e72fd21364b890c746.png\" style=\"margin:0px;padding:0px;display:block;width:20px;height:20px;\">\n                                </a>\n <a href=\"https://www.facebook.com/mustakshif.halal.explorer\" style=\"margin:0px 4px;padding:7px;display:block;border:1px solid #000000;border-radius:4px;\">\n                                    <img src=\"http://127.0.0.1:8000/media_library/images/7b910e6e4f087e7d29855469bc2f21be.png\" style=\"margin:0px;padding:0px;display:block;width:20px;height:20px;\">\n                                </a>\n                          </div>"
+          "contents": "<div style=\"padding: 30px 20px; display: flex; justify-content: center; align-items: center; gap: 10px;\">\n                           \n                               \n                                <a href=\"https://www.tiktok.com/@Email Builder_halal_scanner\" style=\"margin:0px 4px;padding:7px;display:block;border:1px solid #000000;border-radius:4px;\">\n                                    <img src=\"http://127.0.0.1:8000/media_library/images/39bbdbe312eb071abc2db3a3c40e6735.png\" style=\"margin:0px;padding:0px;display:block;width:20px;height:20px;\">\n                                </a>\n                                <a href=\"https://twitter.com/Email Builder_\" style=\"margin:0px 4px;padding:7px;display:block;border:1px solid #000000;border-radius:4px;\">\n                                    <img src=\"http://127.0.0.1:8000/media_library/images/d90133f0096a919f64676f357bea6070.png\" style=\"margin:0px;padding:0px;display:block;width:20px;height:20px;\">\n                                </a>\n                            \n                                <a href=\"https://www.instagram.com/Email Builder_halal_explorer/\" style=\"margin:0px 4px;padding:7px;display:block;border:1px solid #000000;border-radius:4px;\">\n                                    <img src=\"http://127.0.0.1:8000/media_library/images/2ff0d19cfce57b9debbff5664f318b8d.png\" style=\"margin:0px;padding:0px;display:block;width:20px;height:20px;\">\n                                </a>\n                                <a href=\"https://www.youtube.com/@Email Builder-halal-explorer\" style=\"margin:0px 4px;padding:7px;display:block;border:1px solid #000000;border-radius:4px;\">\n                                    <img src=\"http://127.0.0.1:8000/media_library/images/e7a6eb5fd14124e72fd21364b890c746.png\" style=\"margin:0px;padding:0px;display:block;width:20px;height:20px;\">\n                                </a>\n <a href=\"https://www.facebook.com/Email Builder.halal.explorer\" style=\"margin:0px 4px;padding:7px;display:block;border:1px solid #000000;border-radius:4px;\">\n                                    <img src=\"http://127.0.0.1:8000/media_library/images/7b910e6e4f087e7d29855469bc2f21be.png\" style=\"margin:0px;padding:0px;display:block;width:20px;height:20px;\">\n                                </a>\n                          </div>"
         }
       }
     },
@@ -337,7 +337,7 @@ const HEADER_FOOTER: TEditorConfiguration =
           }
         },
         "props": {
-          "text": "Mustakshif Team"
+          "text": "Email Builder Team"
         }
       }
     }
