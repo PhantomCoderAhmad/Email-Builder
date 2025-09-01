@@ -1,0 +1,41 @@
+{
+    "name": "nwidart/templates",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Templates\\": "",
+            "Modules\\Templates\\App\\": "app/",
+            "Modules\\Templates\\Database\\Factories\\": "database/factories/",
+            "Modules\\Templates\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Templates\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "livewire/livewire": "^3.6",
+        "mhmiton/laravel-modules-livewire": "^5.1",
+        "symfony/mime": "^7.2"
+    },
+    "config": {
+        "allow-plugins": {
+            "wikimedia/composer-merge-plugin": true
+        }
+    }
+}

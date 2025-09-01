@@ -1,0 +1,16 @@
+{
+    "name": "Templates",
+    "alias": "templates",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Templates\\App\\Providers\\TemplatesServiceProvider"
+    ],
+    "files": [],
+    "views": [
+        "resources/views", 
+        "resources/views/layouts",
+        "resources/views/partials"
+    ]
+}
