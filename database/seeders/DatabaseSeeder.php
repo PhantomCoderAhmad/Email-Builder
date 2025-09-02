@@ -18,7 +18,7 @@ class DatabaseSeeder extends Seeder
         User::factory()
             ->count(10)
             ->create() // Create the users
-            ->each(function ($user) {
+            ->each(function ($user) { 
                 // Create the associated profile for each user
                 $user->profile()->save(UserProfile::factory()->make()); // Correct usage of UserProfile
             });
