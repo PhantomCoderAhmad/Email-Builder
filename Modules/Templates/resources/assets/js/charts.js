@@ -15,7 +15,7 @@ const getMainChartOptions = () => {
 			borderColor: '#F3F4F6',
 			labelColor: '#6B7280',
 			opacityFrom: 0.45,
-			opacityTo: 0,
+			opacityTo: 0, 
 		}
 	}
 

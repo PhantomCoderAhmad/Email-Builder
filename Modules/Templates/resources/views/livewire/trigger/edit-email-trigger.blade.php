@@ -12,7 +12,7 @@
             <label class="block mb-1 text-sm font-semibold text-gray-700 dark:text-white">Description</label>
             <textarea wire:model.defer="description" class="w-full p-2 border rounded-lg dark:bg-gray-700 dark:border-gray-600 dark:text-white" rows="3"></textarea>
             @error('description') <span class="text-red-600 text-sm">{{ $message }}</span> @enderror
-        </div>
+        </div> 
 
         <!-- From -->
         <div>

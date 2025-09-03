@@ -10,7 +10,7 @@
                 class="mr-4 text-sm font-normal text-gray-500 hover:underline md:mr-6 dark:text-gray-400">Licensing</a>
         </li>
         <li><a href="#" class="mr-4 text-sm font-normal text-gray-500 hover:underline md:mr-6 dark:text-gray-400">Cookie
-                Policy</a></li>
+                Policy</a></li> 
         <li><a href="#" class="text-sm font-normal text-gray-500 hover:underline dark:text-gray-400">Contact</a></li>
     </ul>
     <div class="flex space-x-6 sm:justify-center">
