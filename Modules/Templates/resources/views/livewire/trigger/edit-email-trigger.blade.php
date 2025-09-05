@@ -5,7 +5,7 @@
             <label class="block mb-1 text-sm font-semibold text-gray-700 dark:text-white">Name</label>
             <input type="text" wire:model.defer="name" class="w-full p-2 border rounded-lg dark:bg-gray-700 dark:border-gray-600 dark:text-white">
             @error('name') <span class="text-red-600 text-sm">{{ $message }}</span> @enderror
-        </div>
+        </div>  
 
         <!-- Description -->
         <div>
